@@ -1,0 +1,31 @@
+h5 {
+  font-size: 1.5rem;
+}
+
+p {
+  font-size: 1.3rem;
+  margin-left: 2.5rem;
+}
+
+.question {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.answer-section p {
+  margin: 1rem;
+  padding: 1rem;
+  background-color: #212529;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.answer-button.correct {
+  background-color: #4caf50;
+}
+
+.answer-button.incorrect {
+  background-color: #f44336;
+  cursor: pointer;
+}

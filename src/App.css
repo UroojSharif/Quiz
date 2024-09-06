@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #212529;
+  color: white;
+}
+
+.container{
+  background-color: #3D3D3D;
+  border: 1px solid #3D3D3D;
+  padding: 6rem;
+}
+

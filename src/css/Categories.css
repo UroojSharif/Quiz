@@ -1,0 +1,18 @@
+
+
+h2{
+    font-size: 3rem;
+}
+
+h4{
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.category{
+    margin: 1rem;
+    padding: 1.5rem;
+    background-color: #212529;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
