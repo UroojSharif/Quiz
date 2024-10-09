@@ -4,6 +4,7 @@ Welcome to **Quiz Battle**, an interactive quiz application built with React! Th
 
 ## 🕹️ Get Started
 Jump right into the fun! 🎉 Click the button below to start your Quiz Battle adventure and put your knowledge to the test!
+[![Play Quiz](./src/assets/ss.png)]([https://tic-tac-toe-game-mzvf.onrender.com](https://quiz-2jyo.onrender.com/quiz))
 
 
 ## 🌟 Features
@@ -11,6 +12,12 @@ Jump right into the fun! 🎉 Click the button below to start your Quiz Battle a
 - **Multiple-Choice Questions**: Answer questions and get instant feedback.
 - **Score Tracking**: Keep tabs on your performance as you play.
 - **Responsive Design**: Works great on both desktop and mobile devices!
+
+## 🛠️ Tech Stack
+- **React**: For building a responsive and interactive user interface.
+- **JavaScript (ES6+)**: Utilizing modern JavaScript features for cleaner, more efficient code.
+- **CSS**: Custom styling to enhance the user experience and make the quiz visually appealing.
+- **Render**: Deployed effortlessly on Render for fast, reliable access to your quiz app.
 
   ## 🚀 How To Run Locally
 To get started with Quiz Battle, follow these simple steps:
