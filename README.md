@@ -3,8 +3,8 @@
 Welcome to **Quiz Battle**, an interactive quiz application built with React! This app challenges your knowledge across three exciting categories: Mathematics, History, and Sport. Get ready to test your brainpower and have fun!
 
 ## 🕹️ Get Started
-Jump right into the fun! 🎉 Click the button below to start your Quiz Battle adventure and put your knowledge to the test!
-[![Play Quiz](./src/assets/ss.png)]([https://tic-tac-toe-game-mzvf.onrender.com](https://quiz-2jyo.onrender.com/quiz))
+Jump right into the fun! 🎉 Click the button below to start your Quiz Battle adventure and put your knowledge to the test! <br>
+[![Play Quiz](./src/assets/ss.png)][https://quiz-2jyo.onrender.com/quiz]
 
 
 ## 🌟 Features
