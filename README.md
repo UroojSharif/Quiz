@@ -4,7 +4,7 @@ Welcome to **Quiz Battle**, an interactive quiz application built with React! Th
 
 ## 🕹️ Get Started
 Jump right into the fun! 🎉 Click the button below to start your Quiz Battle adventure and put your knowledge to the test! <br>
-[![Play Quiz](./src/assets/ss.png)][https://quiz-2jyo.onrender.com/quiz]
+[![Play Quiz](./src/assets/ss.png)](https://quiz-2jyo.onrender.com/)
 
 
 ## 🌟 Features
@@ -37,11 +37,6 @@ To get started with Quiz Battle, follow these simple steps:
 4. **Start the Development Server:**
    ```bash
     npm run dev
-
-### 📖 Usage
-- **Select a Category:** Choose your preferred quiz category to start.
-- **Answer Questions:** Respond to multiple-choice questions and see your score update instantly!
-- **Track Your Score:** After completing the quiz, view your final score and challenge yourself again!
 
 ### 🙏 Acknowledgments
 A huge thank you to all the question creators and resources that made this project possible. If you see any content that requires attribution, please let me know!
